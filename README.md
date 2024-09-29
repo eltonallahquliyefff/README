@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elton Allahquliyev</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan 🇦🇿</h3>
 
-- 🔭 I’m currently working on [Portfolio Web-Site](https://acute-working-hourglass.glitch.me/)
+- 🖤 I’m currently working on [Portfolio Web-Site](https://acute-working-hourglass.glitch.me/)
 
 - 🖤 I’m currently learning **HTML, CSS, JavaScript and React, tailwindcss**
 
